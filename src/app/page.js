@@ -9,7 +9,7 @@ export default function Home() {
       <h2>What is Data Analysis?</h2>
       <p>Data analysis refers to the process of inspecting, transforming, and modeling data in order to extract valuable information, draw conclusions, and support decision-making. It involves applying various techniques and tools to uncover patterns, relationships, and trends within datasets. Data analysis plays a crucial role in multiple fields, including business, science, healthcare, and social sciences, as it enables organizations and individuals to make data-driven decisions and gain valuable insights.</p>
       <h2>Importance of Data Analysis</h2>                              
-      <p>Data analysis is of paramount importance in today's data-driven world. By harnessing the power of data analysis, organizations and individuals can gain several benefits, including:
+      <p>Data analysis is of paramount importance in today&apos;s data-driven world. By harnessing the power of data analysis, organizations and individuals can gain several benefits, including:
       <ul>
         <li><b>Informed Decision-Making</b>: Data analysis enables data-driven decision-making, where decisions are based on objective analysis rather than intuition or guesswork. This leads to more accurate and effective decision-making processes.</li>
         <li><b>Identifying Trends and Patterns</b>: Data analysis allows us to identify hidden patterns, trends, and correlations within datasets. These insights can help businesses identify market trends, customer preferences, and potential opportunities.</li>
@@ -66,7 +66,7 @@ export default function Home() {
       To continue your data analysis journey, you can explore various resources, including:
       <ul>
         <li><b>Online Courses</b>: Platforms like Coursera, edX, and DataCamp offer courses on data analysis, statistics, and machine learning.</li>
-        <li><b>Books</b>: Resources like "Python for Data Analysis" by Wes McKinney or "The Data Science Handbook" by Field Cady provide in-depth knowledge on data analysis techniques and tools.</li>
+        <li><b>Books</b>: Resources like &quot;Python for Data Analysis&quot; by Wes McKinney or &quot;The Data Science Handbook&quot; by Field Cady provide in-depth knowledge on data analysis techniques and tools.</li>
         <li><b>Tutorials and Blogs</b>: Online tutorials and blogs like Towards Data Science, Kaggle, and Dataquest offer practical examples, code snippets, and case studies.</li>
         <li><b>Communities</b>: Joining online communities like Data Science Stack Exchange or attending local meetups can provide opportunities to connect with like-minded individuals and seek guidance.</li>
       </ul>
